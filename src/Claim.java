@@ -1,10 +1,5 @@
 import java.time.LocalDate;
 
-/**
- * Represents a claim filed by a student for a found item,
- * and tracks ownership verification + the return process.
- * Java Concept: Classes & Objects, Constructors
- */
 public class Claim {
 
     private String claimId;

@@ -1,7 +1,4 @@
-/**
- * Represents a student who can claim items.
- * Java Concept: Classes & Objects, Constructors
- */
+
 public class Student {
 
     private String studentId;

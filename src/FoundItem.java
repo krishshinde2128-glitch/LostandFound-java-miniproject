@@ -1,9 +1,5 @@
 import java.time.LocalDate;
 
-/**
- * Represents an item reported as FOUND on campus by someone.
- * Java Concept: Classes & Objects, Constructors (inheritance)
- */
 public class FoundItem extends Item {
 
     private String finderName;

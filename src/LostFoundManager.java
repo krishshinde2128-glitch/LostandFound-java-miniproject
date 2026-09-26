@@ -1,19 +1,5 @@
 import java.time.LocalDate;
 import java.util.*;
-
-/**
- * Central manager for the Campus Lost and Found Management System.
- *
- * Java Concepts demonstrated here:
- *   - ArrayList : list of Item records, list of Student records
- *   - LinkedList: claim/return history (sequential log, frequent additions)
- *   - HashMap   : itemId -> Item (fast lookup by ID)
- *   - TreeMap   : items grouped and naturally sorted by category
- *   - CRUD      : add/update/delete/view for items, students, claims
- *   - Searching : by item ID, category, location
- *   - Sorting   : by date, category, status
- *   - Validation & Exception Handling
- */
 public class LostFoundManager {
 
     private final ArrayList<Item> items = new ArrayList<>();

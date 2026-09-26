@@ -3,10 +3,6 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.*;
 
-/**
- * Campus Lost and Found Management System - Console (Terminal) Edition.
- * No GUI. Pure text menu driven using java.util.Scanner.
- */
 public class Main {
 
     private static final Scanner sc = new Scanner(System.in);

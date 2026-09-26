@@ -1,9 +1,5 @@
 import java.time.LocalDate;
 
-/**
- * Represents an item reported as LOST by a student.
- * Java Concept: Classes & Objects, Constructors (inheritance)
- */
 public class LostItem extends Item {
 
     private String reporterName;

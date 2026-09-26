@@ -1,11 +1,5 @@
 import java.time.LocalDate;
 
-/**
- * Abstract base class representing any item involved in the
- * Lost and Found system. LostItem and FoundItem extend this class.
- *
- * Demonstrates: Classes & Objects, Constructors, Arrays (static constants)
- */
 public abstract class Item {
 
     // Array of allowed categories (Java Concept: Array)
